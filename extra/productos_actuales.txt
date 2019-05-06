@@ -1,0 +1,15 @@
+agua
+0032302
+20
+false
+1
+pringles
+012320
+100
+true
+1
+azucar
+12030
+50
+true
+0
